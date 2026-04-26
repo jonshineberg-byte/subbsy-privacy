@@ -2,7 +2,7 @@
 
 ## Contact
 For help, questions, or feedback, email us at:
-jon.shineberg@gmail.com  
+apps@shinersapps.com  
 
 ## Frequently Asked Questions
 
@@ -22,4 +22,4 @@ export or share your match data.
 
 ## Feedback
 We'd love to hear your suggestions for new features. 
-Send them to jon.shineberg@gmail.com  
+Send them to apps@shinersapps.com  
