@@ -20,4 +20,4 @@ and are never uploaded or shared.
 
 ## Contact
 If you have any questions about this policy, contact us at:
-jon.shineberg@gmail.com
+apps@shinersapps.com
